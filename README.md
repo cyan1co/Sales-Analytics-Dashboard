@@ -38,6 +38,7 @@ In this project, the retail sales data is analysed by using Python, SQL, and Pow
 •	Total Customers
 
 •	Average Order Value
+
 ![Executive Summary](Screenshots/BusinessInsightsPage.png)
 
  
@@ -48,6 +49,7 @@ In this project, the retail sales data is analysed by using Python, SQL, and Pow
 •	Quarterly Revenue Analysis
 
 •	Regional Sales Performance
+
 ![Sales Analysis](Screenshots/SalesTrendsPage.png)
 
 #### Customer Analysis
@@ -55,6 +57,7 @@ In this project, the retail sales data is analysed by using Python, SQL, and Pow
 •	Top Customers by Revenue
 
 •	Segment Revenue Contribution
+
 ![Customer Analysis](Screenshots/CustomerAnalysisPage.png)
 
 #### Product Analysis
@@ -64,6 +67,7 @@ In this project, the retail sales data is analysed by using Python, SQL, and Pow
 •	Top Sub-Categories
 
 •	Category Revenue Breakdown
+
 ![Product Analysis](Screenshots/ProductAnalysisPage.png)
 
 #### Key Insights
@@ -77,6 +81,7 @@ In this project, the retail sales data is analysed by using Python, SQL, and Pow
 •	The income was at its peak during Q4.
 
 •	A few items brought in a large proportion of income.
+
 ![Key Insights](Screenshots/BusinessInsightsPage.png)
 
 ## Skills Demonstrated
