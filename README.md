@@ -85,3 +85,9 @@ Skills Demonstrated
 •	Business Intelligence
 
 •	Analytical Thinking
+
+## Executive Summary
+![Executive Summary](Screenshots/Executive_Summary.png)
+
+## Sales Trends
+![Executive Summary](Screenshots/Sales_Trends.png)
