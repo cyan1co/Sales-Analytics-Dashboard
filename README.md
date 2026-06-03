@@ -1,9 +1,9 @@
-Sales Analytics Dashboard
+# Sales Analytics Dashboard
 
-Project Overview
+## Project Overview
 In this project, the retail sales data is analysed by using Python, SQL, and Power BI. This analysis was done to find out sales trends, consumer behaviours, performance of products, and regional distribution of the revenue.
 
-Tools Used
+## Tools Used
 
 •	Python (Pandas)
 
@@ -13,22 +13,23 @@ Tools Used
 
 •	GitHub
 
-Dataset
+## Dataset
 
 •	9,800 retail sales transactions
 
 •	Customer, product, category, and regional sales information
 
-Project Workflow
+## Project Workflow
+
 1.	Data Cleaning using Python
 2.	Exploratory Data Analysis
 3.	SQL Business Analysis Queries
 4.	Power BI Dashboard Development
 5.	Business Insights Generation
 
-Dashboard Features
+## Dashboard Features
 
-Executive Summary
+#### Executive Summary
 
 •	Total Revenue
 
@@ -37,30 +38,35 @@ Executive Summary
 •	Total Customers
 
 •	Average Order Value
+![Executive Summary](Screenshots/Executive_Summary_Page.png)
+
  
-Sales Analysis
+#### Sales Analysis
 
 •	Monthly Sales Trends
 
 •	Quarterly Revenue Analysis
 
 •	Regional Sales Performance
+![Sales Analysis](Screenshots/Sales_Trends_Page.png)
 
-Customer Analysis
+#### Customer Analysis
 
 •	Top Customers by Revenue
 
 •	Segment Revenue Contribution
+![Customer Analysis](Screenshots/Customer_Analysis_Page.png)
 
-Product Analysis
+#### Product Analysis
 
 •	Top Products by Revenue
 
 •	Top Sub-Categories
 
 •	Category Revenue Breakdown
+![Product Analysis](Screenshots/Product_Analysis_Page.png)
 
-Key Insights
+#### Key Insights
 
 •	Technology was the category that had the highest income.
 
@@ -71,8 +77,9 @@ Key Insights
 •	The income was at its peak during Q4.
 
 •	A few items brought in a large proportion of income.
+![Key Insights](Screenshots/Business_Insights_Page.png)
 
-Skills Demonstrated
+## Skills Demonstrated
 
 •	Data Cleaning
 
@@ -86,8 +93,9 @@ Skills Demonstrated
 
 •	Analytical Thinking
 
-## Executive Summary
-![Executive Summary](Screenshots/Executive_Summary.png)
+## Results
 
-## Sales Trends
-![Executive Summary](Screenshots/Sales_Trends.png)
+- Analyzed 9,800 retail transactions
+- Generated insights from $2.26M+ in sales
+- Identified top-performing products and customer segments
+- Built an interactive multi-page Power BI dashboard
