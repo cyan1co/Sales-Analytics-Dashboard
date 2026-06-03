@@ -104,3 +104,13 @@ In this project, the retail sales data is analysed by using Python, SQL, and Pow
 - Generated insights from $2.26M+ in sales
 - Identified top-performing products and customer segments
 - Built an interactive multi-page Power BI dashboard
+
+## Author
+
+**Khushi**
+
+BIT Student, Itahari International College
+
+Aspiring Data Analyst
+
+GitHub: https://github.com/cyan1co
